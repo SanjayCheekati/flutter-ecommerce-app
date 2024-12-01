@@ -8,5 +8,5 @@ Hightlights of the source code:
 ->User can browse through the products.
 ->User can able to add desired products to cart.
 ->In Cart page, all the products will be displayed also a checkout button which helps to make a demo payment.
-->A profile page was there for user profile image, name, email, phone and Address.
+->A profile page was there for user profile image, name, email, phone and Address.  
 
